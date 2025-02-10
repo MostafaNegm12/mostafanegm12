@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Self-Study**
 
-- 🌱 I’m currently learning **MVVM**
+- 🌱 I’m currently learning **Advanced Flutter**
 
 - 💬 Ask me about **Dart - Flutter - Firebase**
 

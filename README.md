@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafanegm12&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanegm12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafanegm12" alt="mostafanegm12" /></a> </p>
-
 - 🔭 I’m currently working on **Self-Study**
 
 - 🌱 I’m currently learning **MVVM**
@@ -30,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,firebase,flutter,dart,photoshopgit,github,vscode,postman,notion,ai,ps,pr,xd,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,firebase,flutter,dart,git,github,vscode,postman,notion,ai,ps,pr,xd,figma&perline=8)](https://skillicons.dev)
 
 
 
